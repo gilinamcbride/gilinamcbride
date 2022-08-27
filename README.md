@@ -5,4 +5,4 @@
 - 📫 How to reach me: gilinamcbride@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was an au pair in Italy after college
-- Portfolio: https://gilinamcbride.github.io/gilina-mcbride-portfolio/
+- Portfolio: https://gilinamcbride.github.io/react-portfolio/
