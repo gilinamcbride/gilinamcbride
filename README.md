@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a progressive web application
+- 🔭 I’m currently working on a full stack MERN application
 - 🌱 I’m currently learning full stack web development through UNC's Coding Bootcamp
 - 🤔 I’m looking to continue learning about web development 
 - 💬 Ask me about my coding experience
