@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on a full stack MERN application
-- 🌱 I’m currently learning full stack web development through UNC's Coding Bootcamp
-- 🤔 I’m looking to continue learning about web development 
+- 🌱 I’m recently graduated from UNC's Coding Bootcamp
+- 🤔 I’m looking to continue learning about web development and open to work 
 - 💬 Ask me about my coding experience
 - 📫 How to reach me: gilinamcbride@gmail.com
 - 😄 Pronouns: she/her
