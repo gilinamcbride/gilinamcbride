@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on learning improving JavaScript skills
+- 🔭 I’m currently working on improving JavaScript skills
 - 🌱 I recently graduated from UNC's Coding Bootcamp
 - 🤔 I’m looking to continue learning about web development and open to work 
 - 💬 Ask me about my coding experience
