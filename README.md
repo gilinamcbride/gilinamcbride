@@ -1,7 +1,6 @@
 - 🔭 I’m currently working for Profituity, LLC
-- 🌱 I recently graduated from UNC's Coding Bootcamp
+- 🌱 I graduated from UNC's Coding Bootcamp
 - 💬 Ask me about my coding experience
 - 📫 How to reach me: gilinamcbride@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was an au pair in Italy after college
-- Portfolio: https://gilinamcbride.github.io/react-portfolio/
